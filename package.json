@@ -1,0 +1,26 @@
+{
+  "name": "kc-obj-watch",
+  "version": "1.0.2",
+  "description": "[js] Watch object data changes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-obj-watch.git"
+  },
+  "keywords": [
+    "on",
+    "object",
+    "changes",
+    "watch",
+    "reactive"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-obj-watch/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-obj-watch",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
