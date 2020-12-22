@@ -1,6 +1,6 @@
 {
   "name": "kc-obj-watch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[js] Watch object data changes.",
   "main": "index.js",
   "repository": {
